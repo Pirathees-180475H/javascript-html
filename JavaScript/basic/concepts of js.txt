@@ -1,0 +1,12 @@
+   link
+
+extenson live server-small server
+
+open html files with open with live sever
+
+2 ways--- link or <sript> </s in body sectio
+
+ fundamentals
+
+variables-let;, const; const=5;
+if we change constant value--> error
